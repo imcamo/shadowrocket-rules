@@ -4,4 +4,9 @@
 [Rule]
 DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net,Proxy
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net,Proxy
-DOMAIN-SUFFIX,openai.com,Proxy
+DOMAIN-SUFFIX,challenges.cloudflare.com,Proxy
+DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net,Proxy
+DOMAIN-SUFFIX,ai.com,Proxy
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net,Proxy
+DOMAIN-SUFFIX,bing.com,Proxy
+DOMAIN-SUFFIX,bard.google.com,Proxy
