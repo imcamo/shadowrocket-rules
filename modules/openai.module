@@ -1,0 +1,7 @@
+#!name=openai.com
+#!desc=chatgpt 分流规则
+
+[Rule]
+DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net,Proxy
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net,Proxy
+DOMAIN-SUFFIX,openai.com,Proxy
